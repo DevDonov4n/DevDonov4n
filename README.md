@@ -93,28 +93,6 @@ I'm currently interested in learning and improving my knowledge in:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevDonov4n&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDonov4n&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=DevDonov4n&theme=tokyonight"/>
-
-</div>
-
----
-
 ## 🎯 My Goal
 
 My goal is to become a well-rounded software developer capable of understanding and contributing to different parts of an application.
@@ -131,7 +109,9 @@ I enjoy working with the front end, but I'm especially interested in expanding m
   <img src="https://img.shields.io/badge/GitHub-DevDonov4n-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<!-- Add your LinkedIn profile below -->
+<a href="https://www.linkedin.com/in/donovan-bueno-de-deus-2b77b8266/"> 
+  <img src="https://img.shields.io/badge/LinkedIn-Donovan%20Bueno-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
